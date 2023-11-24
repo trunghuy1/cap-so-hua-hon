@@ -1,0 +1,15 @@
+D:\window d\capsohuahon\capsohuahon\bin\Debug\net6.0\capsohuahon.exe
+D:\window d\capsohuahon\capsohuahon\bin\Debug\net6.0\capsohuahon.deps.json
+D:\window d\capsohuahon\capsohuahon\bin\Debug\net6.0\capsohuahon.runtimeconfig.json
+D:\window d\capsohuahon\capsohuahon\bin\Debug\net6.0\capsohuahon.dll
+D:\window d\capsohuahon\capsohuahon\bin\Debug\net6.0\capsohuahon.pdb
+D:\window d\capsohuahon\capsohuahon\obj\Debug\net6.0\capsohuahon.csproj.AssemblyReference.cache
+D:\window d\capsohuahon\capsohuahon\obj\Debug\net6.0\capsohuahon.GeneratedMSBuildEditorConfig.editorconfig
+D:\window d\capsohuahon\capsohuahon\obj\Debug\net6.0\capsohuahon.AssemblyInfoInputs.cache
+D:\window d\capsohuahon\capsohuahon\obj\Debug\net6.0\capsohuahon.AssemblyInfo.cs
+D:\window d\capsohuahon\capsohuahon\obj\Debug\net6.0\capsohuahon.csproj.CoreCompileInputs.cache
+D:\window d\capsohuahon\capsohuahon\obj\Debug\net6.0\capsohuahon.dll
+D:\window d\capsohuahon\capsohuahon\obj\Debug\net6.0\refint\capsohuahon.dll
+D:\window d\capsohuahon\capsohuahon\obj\Debug\net6.0\capsohuahon.pdb
+D:\window d\capsohuahon\capsohuahon\obj\Debug\net6.0\capsohuahon.genruntimeconfig.cache
+D:\window d\capsohuahon\capsohuahon\obj\Debug\net6.0\ref\capsohuahon.dll
